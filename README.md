@@ -1,5 +1,7 @@
 # Kushank Sriraj
 
+[![linkedin-logo](linkedin-logo.png)](https://www.linkedin.com/in/kushank-sriraj/)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...

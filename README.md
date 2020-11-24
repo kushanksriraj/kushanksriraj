@@ -1,6 +1,7 @@
 # Kushank Sriraj
 
 [![linkedin-logo](linkedin-logo.png)](https://www.linkedin.com/in/kushank-sriraj/)
+[![twitter-logo](twitter-logo.png)](https://twitter.com/KushankSriraj)
 
 ### Hi there 👋
 

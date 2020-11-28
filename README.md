@@ -8,7 +8,7 @@
 I am Kushank Sriraj. My area of interests are: full-stack web development and Machine Learning.    
 I like to explore new stuffs and at the same time work on battle-tested technologies.
 
-- 🔭 I’m currently working on developing webapps and OpenCV applications
+- 🔭 I’m currently working on developing webapps
 - 🌱 I’m currently learning JavaScript, React.js and OpenCV
 - 🔨 I know HTML, JavaScript, Python and AWS Sagemaker
 - 📲 Connect with me on LinkedIn

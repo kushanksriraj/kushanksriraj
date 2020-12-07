@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am Kushank Sriraj. I am learning full stack web development. Check out my work.   
+I'm Kushank, on my way to full stack web development.   
 I like to explore new stuffs and at the same time work on battle-tested technologies.
 
 - 🔭 I’m currently working on developing webapps

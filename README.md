@@ -5,10 +5,11 @@
 
 ### Hi there 👋
 
-I am Kushank Sriraj. My area of interests are: full-stack web development and Machine Learning.    
+I am Kushank Sriraj. I am learning full stack web development. Check out my work.   
 I like to explore new stuffs and at the same time work on battle-tested technologies.
 
 - 🔭 I’m currently working on developing webapps
 - 🌱 I’m currently learning JavaScript, React.js, CSS3
-- 🔨 I know HTML, JavaScript, Python and AWS Sagemaker
+- 🔨 I know HTML, JavaScript, and Python
 - 📲 Connect with me on LinkedIn
+- 💻 Check out my portfolio : [kushanksriraj.netlify.app](https://kushanksriraj.netlify.app)

@@ -9,8 +9,6 @@
 
 I like to explore new stuffs and at the same time work on battle-tested technologies.
 
-- 🔭 I’m currently working on a Social Media App
-- 🌱 I’m currently learning Redux Toolkit and Socket.io
 - 🔨 I know ReactJS, JavaScript(ES6), TypeScript, ExpressJS, MongooseJS, MongoDB, HTML5 and CSS3
 - 📲 Connect with me on LinkedIn and Twitter
 - 💻 Check out my Apps here: https://github.com/kushanksriraj

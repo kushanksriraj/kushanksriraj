@@ -21,8 +21,11 @@ I like to explore new stuffs and at the same time work on battle-tested technolo
 - [Easy guide to React Router v6: Use it in your next project!](https://kushanksriraj.hashnode.dev/easy-guide-to-react-router-v6)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- 
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushanksriraj&hide=jupyter%20notebook,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Kushank's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushanksriraj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
